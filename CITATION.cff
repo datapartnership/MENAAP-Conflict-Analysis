@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "Country borders or names do not necessarily reflect the World Bank Group’s official position. All maps are for illustrative purposes and do not imply the expression of any opinion on the part of the World Bank, concerning the legal status of any country or territory or concerning the delimitation of frontiers or boundaries."
-title: "World Bank Data Lab Project Template"
+message: "Country borders, names or numbers do not necessarily reflect the World Bank Group’s official position. All maps are for illustrative purposes and do not imply the expression of any opinion on the part of the World Bank, concerning the legal status of any country or territory or concerning the delimitation of frontiers or boundaries."
+title: "MENAAP Conflict Impact Analysis"
 authors:
   - affiliation: World Bank
-    family-names: Stefanini Vicente
-    given-names: Gabriel
+    family-names: Sarva, Tadeo
+    given-names: Sahiti, Maria Sol
     orcid: https://orcid.org/0000-0001-6530-3780
 keywords:
   - Open Science
