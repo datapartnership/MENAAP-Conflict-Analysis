@@ -4,4 +4,4 @@ root: README
 parts:
   - caption: Conflict Analysis
     chapters:
-      - file: notebooks/conflict/acled_report_2.ipynb
+      - file: notebooks/conflict/conflict_analysis.ipynb
